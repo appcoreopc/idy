@@ -16,6 +16,10 @@ c) key storage.
 ## Generate QR 
 /generateQr
 
+issuer - you need to provide issuer name 
+account - account name 
+timing - google authenticator refresh key cycle. 
+
 ## Validation REST 
 /validate?key=208088
 
